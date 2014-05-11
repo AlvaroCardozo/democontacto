@@ -1,0 +1,7 @@
+#ignore classes
+*.classes
+#mac native files
+*.DS_Store
+#binary files
+bin/*
+gen/*
